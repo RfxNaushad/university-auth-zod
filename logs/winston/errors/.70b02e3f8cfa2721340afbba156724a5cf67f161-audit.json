@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\2.0\\university-management-system\\logs\\winston\\errors\\.70b02e3f8cfa2721340afbba156724a5cf67f161-audit.json",
+    "files": [
+        {
+            "date": 1686412494112,
+            "name": "D:\\2.0\\university-management-system\\logs\\winston\\errors\\meow-2023-06-10-21-error.log",
+            "hash": "e266abd122ae54e79f82290edce5fc20ef720c0600dd38a95b54580eb98b62e4"
+        },
+        {
+            "date": 1686415122342,
+            "name": "D:\\2.0\\university-management-system\\logs\\winston\\errors\\meow-2023-06-10-22-error.log",
+            "hash": "70c8ffb12459b24de988304018e602a0a7f4f039f2ad0ac82eccf60c0fe431e0"
+        },
+        {
+            "date": 1686580403819,
+            "name": "D:\\2.0\\university-management-system\\logs\\winston\\errors\\meow-2023-06-12-20-error.log",
+            "hash": "0093e0725493261067d8d3742dc2a9ba9bc67cebd630c010021c26b0f2ded819"
+        }
+    ],
+    "hashType": "sha256"
+}
